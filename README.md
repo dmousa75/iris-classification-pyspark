@@ -4,7 +4,7 @@ Machine Learning Classification using PySpark on Iris Dataset
 
 ## Project Overview
 
-This project applies machine learning classification techniques using PySpark on the Iris flower dataset. The objective is to classify iris flower species based on sepal and petal measurements. Three classification algorithms were implemented and evaluated:
+This project applies machine learning classification techniques using PySpark on the Iris flower dataset. It was also required as an Assignment for subject Data Management for Msc. of Data Analytics at UKM for semester 2 2025/2026. The objective is to classify iris flower species based on sepal and petal measurements. Three classification algorithms were implemented and evaluated:
 
 * Logistic Regression
 * Decision Tree
@@ -85,18 +85,6 @@ Despite identical evaluation metrics, deeper analysis revealed important differe
 
 ## Visualizations
 
-### Model Performance Comparison
-
-![Model Comparison](images/model_comparison.png)
-
-### Confusion Matrix
-
-![Confusion Matrix](images/confusion_matrix.png)
-
-### Feature Importance
-
-![Feature Importance](images/feature_importance.png)
-
 ---
 
 ## Technologies Used
@@ -115,7 +103,7 @@ Despite identical evaluation metrics, deeper analysis revealed important differe
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/iris-classification-pyspark.git
+git clone https://github.com/dmousa75/iris-classification-pyspark.git
 ```
 
 ### Navigate to project folder
